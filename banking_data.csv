@@ -1,0 +1,11 @@
+customer_id,region,account_type,transaction_amount,transaction_date
+1,Asia,Savings,1200,10/01/2024
+2,Europe,Current,500,12/01/2024
+3,Asia,Savings,2500,03/02/2024
+4,North America,Savings,1800,10/02/2024
+5,Europe,Current,700,05/03/2024
+6,Asia,Current,900,12/03/2024
+7,North America,Savings,2100,02/04/2024
+8,Europe,Savings,1500,08/04/2024
+9,Asia,Current,600,01/05/2024
+10,North America,Current,850,15/05/2024
